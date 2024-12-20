@@ -51,7 +51,7 @@ export default function App() {
       <main className="flex-grow flex items-center justify-center p-20">
         <div className="text-center">
           <h1 className="text-6xl font-bold mb-4">
-            Get Degan. Come onchain.
+            Get Degen. Come onchain.
           </h1>
           <p className="text-xl dark:text-gray-500 text-gray-600 mb-8">
             Happily powered by <a href="https://onchainkit.xyz" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400 dark:hover:text-gray-300">OnchainKit</a>.
