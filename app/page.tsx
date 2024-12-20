@@ -57,7 +57,7 @@ export default function App() {
             Happily powered by <a href="https://onchainkit.xyz" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400 dark:hover:text-gray-300">OnchainKit</a>.
           </p>
           <div className="flex justify-center">
-            <BuyComponent />
+            <BuyComponent /> 
           </div>
         </div>
       </main>
