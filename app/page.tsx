@@ -83,7 +83,7 @@ export default function App() {
               >
                 zawarudonft
               </a>{' '}
-              using Onchainkit
+              using OnchainKit
             </p>
           </div>
         </div>
