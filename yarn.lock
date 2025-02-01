@@ -19,7 +19,7 @@
   dependencies:
     regenerator-runtime "^0.14.0"
 
-"@coinbase/onchainkit@latest":
+"@coinbase/onchainkit@^0.36.9":
   version "0.36.9"
   resolved "https://registry.npmjs.org/@coinbase/onchainkit/-/onchainkit-0.36.9.tgz"
   integrity sha512-kBA38YGyq6kAXG/OOMTepLdP/j8MBqCCOaPKMtVmqTVgbNqcyBkLZhepAvgMVEN22pkPf4YmkhLWyyz+vdmDew==
